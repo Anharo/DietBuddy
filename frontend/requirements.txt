@@ -1,0 +1,2 @@
+python=3.10
+pandas=3.04
